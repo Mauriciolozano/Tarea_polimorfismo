@@ -9,8 +9,8 @@ using namespace std;
 int main()
 {
     	 
-	 Paquete numero1("Pablo Erhard", "Av.Jose Vasconcelos 710", "Monterrey", "NL", 66220, 
-    	"Mauricio Lozano", "Matamoros 930", "Monterrey", "Nuevo Leon", 66235 , 150.00, 20,15,15,15,5);
+	 Envio numero1("Pablo Erhard", "Av.Jose Vasconcelos 710", "Monterrey", "NL", 66220, 
+    	"Mauricio Lozano", "Matamoros 930", "Monterrey", "Nuevo Leon", 66235 , 150.00);
 	
 	
 	 Paquete numero2("Pablo Erhard", "Av.Jose Vasconcelos 710", "Monterrey", "NL", 66220, 
