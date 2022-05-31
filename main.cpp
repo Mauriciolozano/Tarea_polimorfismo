@@ -9,17 +9,12 @@ using namespace std;
 int main()
 {
     	 
-	Envios numero0("Pablo Erhard", "Av.Jose Vasconcelos 710", "Monterrey", "NL", 66220, "Mauricio Lozano", "Matamoros 930", "Monterrey", "Nuevo Leon", 66235 , 150.00);
-
 	 Paquete numero1("Pablo Erhard", "Av.Jose Vasconcelos 710", "Monterrey", "NL", 66220, 
     	"Mauricio Lozano", "Matamoros 930", "Monterrey", "Nuevo Leon", 66235 , 150.00, 20,15,15,15,5);
 	
 	
 	 Paquete numero2("Pablo Erhard", "Av.Jose Vasconcelos 710", "Monterrey", "NL", 66220, 
     	"Mauricio Lozano", "Matamoros 930", "Monterrey", "Nuevo Leon", 66235 , 150.00, 10,10,10,10,5);
-	
-	
-	
 	
 
    	 Sobre numero3 ("Pablo Erhard", " Av Gomez Morin 1101", "Monterrey", "Nuevo Leon", 66254, 
